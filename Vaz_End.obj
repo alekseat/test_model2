@@ -1,7 +1,7 @@
 # Blender v2.93.18 OBJ File: 'VAZ 2107.blend'
 # www.blender.org
 mtllib Vaz_End.mtl
-o Plane_Mesh.014
+o Plane
 v 8.225139 43.930031 65.215088
 v 19.290543 45.110939 65.487831
 v 20.384935 43.813072 64.831238
