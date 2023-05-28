@@ -1,7 +1,7 @@
 # Blender v2.93.18 OBJ File: 'VAZ 2107.blend'
 # www.blender.org
-mtllib VAZ2107.mtl
-o Vaz_Плоскость.014
+mtllib VAZ2107
+o Vaz
 v -0.469512 0.359972 0.972455
 v 0.490846 0.359972 0.972455
 v -0.401885 1.003407 0.564434
