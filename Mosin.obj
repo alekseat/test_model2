@@ -1,7 +1,7 @@
 # Blender v2.83.19 OBJ File: ''
 # www.blender.org
 mtllib Mosin.mtl
-o Cylinder_Cylinder.003
+o Cylinder
 v -3.747427 -0.030466 0.172821
 v -3.742430 0.144185 0.163322
 v -3.079938 0.166882 0.181165
