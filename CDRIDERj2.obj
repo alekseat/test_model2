@@ -1,7 +1,7 @@
 # Blender v3.1.2 OBJ File: ''
 # www.blender.org
 mtllib CDRIDERj2.mtl
-o Cube_Cube.002
+o Cube
 v -41.693581 -14.008186 14.008186
 v -41.693581 14.008186 14.008186
 v -41.693581 -14.008186 -14.008186
